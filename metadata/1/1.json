@@ -1,5 +1,5 @@
 {
-    description: "Image 1-1",
-    image: "https://raw.githubusercontent.com/timaaos/nftrandom/main/images/1/1.png",
-    name: "1"
+    "description": "Image 1-1",
+    "image": "https://raw.githubusercontent.com/timaaos/nftrandom/main/images/1/1.png",
+    "name": "1"
 }
